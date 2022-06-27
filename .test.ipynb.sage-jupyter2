@@ -1,0 +1,3 @@
+{"backend_state":"running","connection_file":"/projects/2276727c-7763-4f74-8e1b-8f64a2a119f0/.local/share/jupyter/runtime/kernel-03981bdd-15b7-4fca-9319-0b6776a7467b.json","kernel":"nlp_env","kernel_error":"","kernel_state":"idle","trust":true,"type":"settings"}
+{"end":1656346876310,"exec_count":1,"id":"43147f","input":"print('hello world')","kernel":"nlp_env","output":{"0":{"name":"stdout","text":"hello world\n"}},"pos":0,"start":1656346876304,"state":"done","type":"cell"}
+{"last_load":1656346858863,"type":"file"}
