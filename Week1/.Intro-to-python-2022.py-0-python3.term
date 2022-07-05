@@ -1,0 +1,22 @@
+Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> intro[K[K[K[K[KIntro-to-python.py
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'Intro' is not defined
+>>> Intro-to-python.pypIntro-to-python.py[C[C[C[C[CyIntro-to-python.py[C[C[C[C[C[CtIntro-to-python.py[C[C[C[C[C[C[ChIntro-to-python.py[C[C[C[C[C[C[C[CoIntro-to-python.py[C[C[C[C[C[C[C[C[CnIntro-to-python.py[C[C[C[C[C[C[C[C[C[C Intro-to-python.py[C[C[C[C[C[C[C[C[C[C[C3Intro-to-python.py[C[C[C[C[C[C[C[C[C[C[C[C[1PIntro-to-python.py[C[C[C[C[C[C[C[C[C[C[C[1PIntro-to-python.py[C[C[C[C[C[C[C[C[C[C3Intro-to-python.py[C[C[C[C[C[C[C[C[C[C[C Intro-to-python.py[C[C[C[C[C[C[C[C[C[C[C[C
+  File "<stdin>", line 1
+    python3 Intro-to-python.py
+            ^
+SyntaxError: invalid syntax
+>>> python3 Intro-to-python.py[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KquitPython 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> Python 3.8.10 (default, Mar 15 2022, 12:22:08) 
+[GCC 9.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> [K>>> 

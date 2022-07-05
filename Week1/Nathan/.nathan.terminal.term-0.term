@@ -1,0 +1,88 @@
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ [K(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ pytn[K[K[K[Kpython 3
+python: can't open file '/projects/2276727c-7763-4f74-8e1b-8f64a2a119f0/NLP-Notebooks-Summer-2022/Week1/Nathan/3': [Errno 2] No such file or directory
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ python3 python-test.jp[K[K[K[Kpytest.p[K[K[K[K[K[K[K[Kte[K[Kt.py
+100
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ [K(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ (base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ (base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ python3 Intro-[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd..[K[K ..
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ Intro-to-python.py
+bash: Intro-to-python.py: command not found
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ Intro-to-python.pypIntro-to-python.pyyIntro-to-python.pytIntro-to-python.pyhIntro-to-python.pyoIntro-to-python.pynIntro-to-python.py3Intro-to-python.py Intro-to-python.py
+python3: can't open file '/projects/2276727c-7763-4f74-8e1b-8f64a2a119f0/NLP-Notebooks-Summer-2022/Week1/Intro-to-python.py': [Errno 2] No such file or directory
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ ls
+[0m[01;34mAilesh[0m  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb  FlashKarate-intermediate-nicholas-keegan.ipynb  FlashKarate-intermediate.ipynb  Intro-to-python-2022.py  [01;34mKeegan[0m  NLP_and_Word2Vec_streamlined_for_students.ipynb  [01;34mNathan[0m  [01;34mNicholas[0m  [01;34mPierce[0m  [01;34mRoonal[0m  dictonary-flashcards-mini-project-simple.ipynb  intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ cd Intro-to-python-2022.py
+bash: cd: Intro-to-python-2022.py: Not a directory
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ cd Intro-to-python-2022.py[C[1P Intro-to-python-2022.py[1P Intro-to-python-2022.pyp Intro-to-python-2022.pyy Intro-to-python-2022.pyt Intro-to-python-2022.pyh Intro-to-python-2022.pyo Intro-to-python-2022.pyn Intro-to-python-2022.py3 Intro-to-python-2022.py[C Intro-to-python-2022.py
+a domesticated carnivorous mammal that typically has a long snout
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ [K(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python 3m [K[K[K[K[K[K[K[K[K[Kpython3 Intro [K-to~-python[1P-python[C[C[C[C[C[C[C-2022l[K.py
+a domesticated carnivorous mammal that typically has a long snout
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py 
+.FlashKarate-intermediate-ailesh-roonal-pierce.ipynb.sage-jupyter2  FlashKarate-intermediate-ailesh-roonal-pierce.ipynb                 Nathan/
+.FlashKarate-intermediate-nicholas-keegan.ipynb.sage-jupyter2       FlashKarate-intermediate-nicholas-keegan.ipynb                      Nicholas/
+.Intro-to-python-2022.py-0-python3.term                             FlashKarate-intermediate.ipynb                                      Pierce/
+.dictonary-flashcards-mini-project-simple.ipynb.sage-jupyter2       Intro-to-python-2022.py                                             Roonal/
+.intro_to_python.ipynb.sage-jupyter2                                Keegan/                                                             dictonary-flashcards-mini-project-simple.ipynb
+Ailesh/                                                             NLP_and_Word2Vec_streamlined_for_students.ipynb                     intro_to_python.ipynb
+(base) ]0;~/NLP-Notebooks-Summer-2022/Week1[01;34m~/NLP-Notebooks-Summer-2022/Week1[00m$ python3 Intro-to-python-2022.py (base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ (base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ [K(base) ]0;~/NLP-Notebooks-Summer-2022/Week1/Nathan[01;34m~/NLP-Notebooks-Summer-2022/Week1/Nathan[00m$ 
