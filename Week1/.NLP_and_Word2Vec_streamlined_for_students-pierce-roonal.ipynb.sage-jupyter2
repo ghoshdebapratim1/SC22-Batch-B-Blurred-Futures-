@@ -68,5 +68,5 @@
 {"cell_type":"markdown","id":"e51356","input":"# Natural Language Processing using NLTK","pos":0,"type":"cell"}
 {"cell_type":"markdown","id":"f7ba3e","input":"## Training the Word2Vec model\n\nFor this part you may want to follow a guide [here](https://radimrehurek.com/gensim/models/word2vec.html). \n\n","pos":47,"type":"cell"}
 {"cell_type":"markdown","id":"fffc85","input":"## NLP Part 0 - Get some Data!\n\nThis section's code is mostly given to you as a review for how you can scrape and manipulate data from the web. ","pos":3,"type":"cell"}
-{"id":0,"time":1656608414749,"type":"user"}
-{"last_load":1656621780900,"type":"file"}
+{"id":0,"time":1657735395528,"type":"user"}
+{"last_load":1657735393300,"type":"file"}

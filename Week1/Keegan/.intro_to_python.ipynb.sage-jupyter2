@@ -147,5 +147,5 @@
 {"cell_type":"markdown","id":"f825b8","input":"We can also perform basic algebra to these variables and save the output to a new variable\n\n","metadata":{"id":"tmahXoIQWETF"},"pos":5,"type":"cell"}
 {"cell_type":"markdown","id":"fcda26","input":"We can add else statements to the above. An else statement is what will be run if the original statement is false.","metadata":{"id":"Uv9lAWJPWETR"},"pos":43,"type":"cell"}
 {"cell_type":"markdown","id":"fd0cb9","input":"### Lists\n\n","metadata":{"id":"30PWO9XBWETL"},"pos":22,"type":"cell"}
-{"id":0,"time":1656523351047,"type":"user"}
-{"last_load":1656523351247,"type":"file"}
+{"id":0,"time":1657905118083,"type":"user"}
+{"last_load":1657819052996,"type":"file"}

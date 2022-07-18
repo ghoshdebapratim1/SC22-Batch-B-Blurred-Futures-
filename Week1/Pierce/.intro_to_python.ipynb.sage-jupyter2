@@ -147,5 +147,5 @@
 {"cell_type":"markdown","id":"f5c8a6","input":"**We can see how many unique words are used in the book.**\n","metadata":{"id":"j-TK8QgNY-9s"},"pos":117,"type":"cell"}
 {"cell_type":"markdown","id":"f603b8","input":"We will learn more about for loops in the next lesson. For now, we will use them to go through a list and print out each element.","metadata":{"id":"jwk4fKYdWETQ"},"pos":34,"type":"cell"}
 {"cell_type":"markdown","id":"f6dc66","input":"Now its your turn. \n\n","metadata":{"id":"lPiBKyGIWETP"},"pos":29,"type":"cell"}
-{"id":0,"time":1656523026031,"type":"user"}
-{"last_load":1656520515095,"type":"file"}
+{"id":0,"time":1657226379118,"type":"user"}
+{"last_load":1657915146987,"type":"file"}
